@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.table1{
+    border: 1px solid black;
+    width: 400px;
+}
+body{
+    max-width: 1200px;
+    margin: 0 auto;
+}
