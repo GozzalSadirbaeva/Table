@@ -32,6 +32,8 @@ function displayData() {
         btn.style.marginRight = "5px";
       } else {
         btn.classList.add("fa-solid", "fa-pencil");
+        btn.style.backgroundColor = "yellow";
+
       }
 
       tdAction.append(btn);
